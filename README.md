@@ -1,29 +1,13 @@
-# ProShop eCommerce Platform
+# eCommerce MERN Website
 
 > eCommerce platform built with the MERN stack & Redux.
 
-This is the course project for my [MERN eCommerce From Scratch](https://www.udemy.com/course/mern-ecommerce) course
+This project was originally developed by [Brad Traversy](https://github.com/bradtraversy/proshop_mern) and modified by [Arman Abkar](https://github.com/armanabkar/eCommerce_MERN).
 
-![screenshot](https://github.com/bradtraversy/proshop_mern/blob/master/uploads/Screen%20Shot%202020-09-29%20at%205.50.52%20PM.png)
-
-## Features
-
-- Full featured shopping cart
-- Product reviews and ratings
-- Top products carousel
-- Product pagination
-- Product search feature
-- User profile with orders
-- Admin product management
-- Admin user management
-- Admin Order details page
-- Mark orders as delivered option
-- Checkout process (shipping, payment method, etc)
-- PayPal / credit card integration
-- Database seeder (products & users)
-
-## Note on Issues
-Please do not post issues here that are related to your own code when taking the course. Add those in the Udemy Q/A. If you clone THIS repo and there are issues, then you can submit
+<h2 align="center">
+  <img src="https://github.com/armanabkar/eCommerce_MERN/blob/master/screenshots/HomePage.png" alt="MERN-eCommerce" width="600px" />
+  <br>
+</h2>
 
 ## Usage
 
@@ -99,7 +83,6 @@ john@example.com (Customer)
 jane@example.com (Customer)
 123456
 ```
-
 
 ## License
 
